@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-firebase-token",
+  "version": "0.0.1",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  },
+  "insomnia": {                    
+    "name": "firebase-token",
+    "displayName": "Firebase JWT Token",
+    "description": "Generate firebase jwt token",
+
+    "publisher": {
+      "name": "Yeung Yiu Hung",
+      "icon": "https://avatars.githubusercontent.com/u/446404?v=4"
+    },
+
+    "unlisted": false
+  }
+}
