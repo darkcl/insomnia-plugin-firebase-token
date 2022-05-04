@@ -1,11 +1,7 @@
 {
   "name": "insomnia-plugin-firebase-token",
   "version": "0.0.1",
-  "private": true,
   "main": "main.js",
-  "dependencies": {
-    "node-fetch": "^3.2.4"
-  },
   "insomnia": {                    
     "name": "firebase-token",
     "displayName": "Firebase JWT Token",
